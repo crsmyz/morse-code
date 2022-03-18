@@ -1,0 +1,3 @@
+import { replaceInputCharactersUsingRegexAndConversionFunction } from './replaceInputCharactersUsingRegexAndConversionFunction';
+
+export const convertInputToMorseCode = replaceInputCharactersUsingRegexAndConversionFunction(input);
